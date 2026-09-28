@@ -227,3 +227,6 @@
 2026-09-21 14:40:41,193 - __main__ - INFO - Token value: 1234
 2026-09-21 14:40:42,227 - __main__ - ERROR - Request failed with status 429
 2026-09-21 14:40:42,228 - __main__ - ERROR - Response: Too many requests from your IP address. We limit our service to 50 unique lookups per hour. Please wait 1 hour before making another request for your access to reset.
+2026-09-28 16:14:40,562 - __main__ - INFO - Token value: 1234
+2026-09-28 16:14:40,652 - __main__ - ERROR - Request failed with status 429
+2026-09-28 16:14:40,653 - __main__ - ERROR - Response: Too many requests from your IP address. We limit our service to 50 unique lookups per hour. Please wait 1 hour before making another request for your access to reset.
